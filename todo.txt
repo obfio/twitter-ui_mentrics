@@ -1,0 +1,8 @@
+[ ] Get initial numbers
+[ ] handle xxx = xxx ^ new Date(xxx * 10000000000).getUTCDate()
+[ ] handle xxx = xxx ^ xxx
+[ ] handle xxx = ~xxx
+[ ] handle xxx = function(x, y, z){/*...*/}
+[ ] handle xxx = ~(xxx & xxx)
+[ ] handle xxx = xxx | xxx
+[ ] handle xxx = xxx & xxx
